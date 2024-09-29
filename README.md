@@ -38,15 +38,14 @@ Prerequisites
 Flutter SDK Install Flutter
 Installation
 Clone the repo:
-bash
+
 
 git clone https://https://github.com/IkireziI/flutter_project.git
 Install dependencies:
-bash
+
 
 flutter pub get
-Run the app:
-bash
+
 
 flutter run
 🛠️ Code Overview
